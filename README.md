@@ -6,6 +6,18 @@
 Email Gatekeeper • Fortress Defender • Zero Trust Email Security
 </p>
 
+## Quick Start
+
+1. Install ExchangeOnlineManagement
+2. Launch ShadowDeploy-DFO365.ps1
+3. Connect Exchange Online
+4. Deploy All Custom Policies
+5. Generate Report
+
+📘 Walkthrough Guide
+🧪 Validation Scenarios
+✅ Smoke Test Checklist
+
 ![Version](https://img.shields.io/badge/version-1.0-purple)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 ![Microsoft365](https://img.shields.io/badge/Microsoft-365-green)
