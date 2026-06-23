@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/shadowdeployo365-banner.png" width="100%">
+  <img src="./assets/shadowdeployo365-banner.png" width="100%">
 </p>
 
 <h1 align="center">
