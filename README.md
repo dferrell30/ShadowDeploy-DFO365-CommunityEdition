@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="Assets/shadowdeployo365-banner.png" alt="Shadow Deploy Defender for Office 365" width="100%">
+</p>
+
+<h1 align="center">
+Shadow Deploy – Defender for Office 365
+</h1>
+
+<p align="center">
+Email Gatekeeper • Fortress Defender • Zero Trust Email Security
+</p>
+
+![Version](https://img.shields.io/badge/version-1.0-purple)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
+![Microsoft365](https://img.shields.io/badge/Microsoft-365-green)
+![Defender](https://img.shields.io/badge/Defender-Office%20365-purple)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+
+---
+
 # 🏰 Shadow Deploy – Defender for Office 365
 
 Shadow Deploy – Defender for Office 365 is a PowerShell-based deployment, validation, and reporting framework designed to simplify Microsoft Defender for Office 365 policy deployment using a guided operational interface.
