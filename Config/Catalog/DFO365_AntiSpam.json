@@ -1,0 +1,23 @@
+{
+  "Category": "AntiSpam",
+  "MicrosoftAlignment": "Zero Trust / Standard-Strict",
+  "AntiSpamInbound": {
+    "Enabled": true,
+    "SpamAction": "MoveToJmf",
+    "HighConfidenceSpamAction": "Quarantine",
+    "PhishSpamAction": "Quarantine",
+    "HighConfidencePhishAction": "Quarantine",
+    "BulkSpamAction": "Quarantine",
+    "ZapEnabled": true,
+    "EnableEndUserSpamNotifications": true
+  },
+  "AntiSpamOutbound": {
+    "Enabled": true,
+    "AutoForwardingMode": "Off",
+    "ActionWhenThresholdReached": "BlockUser",
+    "NotifyOutboundSpam": true,
+    "RecipientLimitExternalPerHour": 400,
+    "RecipientLimitInternalPerHour": 800,
+    "RecipientLimitPerDay": 800
+  }
+}

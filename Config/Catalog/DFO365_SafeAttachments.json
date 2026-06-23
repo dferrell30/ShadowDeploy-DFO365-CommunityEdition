@@ -1,0 +1,11 @@
+{
+  "Category": "SafeAttachments",
+  "MicrosoftAlignment": "Zero Trust / Strict",
+  "SafeAttachments": {
+    "Enabled": true,
+    "Action": "Block",
+    "Redirect": false,
+    "EnableOrganizationBranding": true,
+    "QuarantineTag": "AdminOnlyAccessPolicy"
+  }
+}

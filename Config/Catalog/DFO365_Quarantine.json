@@ -1,0 +1,9 @@
+{
+  "Category": "Quarantine",
+  "MicrosoftAlignment": "Needs Review",
+  "Quarantine": {
+    "Enabled": false,
+    "Status": "AdvisoryOnly",
+    "Notes": "No backend quarantine deployment is executed in the current release."
+  }
+}

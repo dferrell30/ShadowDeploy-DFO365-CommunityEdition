@@ -1,0 +1,19 @@
+{
+  "Category": "AntiPhish",
+  "MicrosoftAlignment": "Zero Trust / Strict",
+  "AntiPhish": {
+    "Enabled": true,
+    "PhishThresholdLevel": 3,
+    "EnableMailboxIntelligence": true,
+    "EnableMailboxIntelligenceProtection": true,
+    "EnableSpoofIntelligence": true,
+    "EnableTargetedUserProtection": true,
+    "EnableTargetedDomainsProtection": true,
+    "EnableOrganizationDomainsProtection": true,
+    "AuthenticationFailAction": "Quarantine",
+    "MailboxIntelligenceProtectionAction": "Quarantine",
+    "TargetedUserProtectionAction": "Quarantine",
+    "TargetedDomainProtectionAction": "Quarantine",
+    "HonorDmarcPolicy": true
+  }
+}

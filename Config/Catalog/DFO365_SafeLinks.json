@@ -1,0 +1,20 @@
+{
+  "Category": "SafeLinks",
+  "MicrosoftAlignment": "Zero Trust / Strict",
+  "SafeLinks": {
+    "Enabled": true,
+    "IsEnabled": true,
+    "EnableSafeLinksForEmail": true,
+    "EnableSafeLinksForTeams": true,
+    "EnableSafeLinksForOffice": true,
+    "TrackClicks": true,
+    "AllowClickThrough": false,
+    "ScanUrls": true,
+    "EnableForInternalSenders": true,
+    "DeliverMessageAfterScan": true,
+    "DisableUrlRewrite": false,
+    "DoNotRewriteUrls": [],
+    "BlockedUrls": [],
+    "DisabledUrls": []
+  }
+}
