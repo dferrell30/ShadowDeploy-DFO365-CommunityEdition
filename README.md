@@ -14,7 +14,6 @@ Email Gatekeeper • Fortress Defender • Zero Trust Email Security
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 ![Microsoft365](https://img.shields.io/badge/Microsoft-365-green)
 ![Defender](https://img.shields.io/badge/Defender-Office%20365-purple)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ---
 
