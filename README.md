@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/shadowdeployo365-banner.png" alt="Shadow Deploy Defender for Office 365" width="100%">
+  <img src="./Assets/shadowdeployo365-banner.png" width="100%">
 </p>
 
 <h1 align="center">
