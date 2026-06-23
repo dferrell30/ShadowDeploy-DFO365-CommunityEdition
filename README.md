@@ -2,10 +2,6 @@
   <img src="./assets/shadowdeployo365-banner.png" width="100%">
 </p>
 
-<h1 align="center">
-Shadow Deploy – Defender for Office 365
-</h1>
-
 <p align="center">
 Email Gatekeeper • Fortress Defender • Zero Trust Email Security
 </p>
